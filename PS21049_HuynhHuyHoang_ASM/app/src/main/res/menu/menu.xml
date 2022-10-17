@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mQLThuThu"
+        android:title="Quản Lí Thủ Thư"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/mQLPhieuMuon"
+        android:title="Quản Lí Phiếu Mượn"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/mQLLoaiSach"
+        android:title="Quản Lí Loại Sách"
+        android:icon="@drawable/quanlisach"/>
+
+    <item android:id="@+id/mQLSach"
+        android:title="Quản Lí Sách"
+        android:icon="@drawable/book"/>
+
+    <item android:id="@+id/mQLThanhVien"
+        android:title="Quản Lí Thành Viên"
+        android:icon="@drawable/team"/>
+
+    <item android:title="Thống Kê">
+        <menu>
+            <item android:id="@+id/mTop10"
+                android:title="Top 10 Sách Mượn Nhiều Nhất"
+                android:icon="@drawable/top10"/>
+            <item android:id="@+id/mDoanhThu"
+                android:title="Doanh Thu"
+                android:icon="@drawable/thongke"
+                />
+        </menu>
+    </item>
+    <item android:title="Người Dùng">
+        <menu>
+            <item android:id="@+id/mDoiMK"
+                android:title="Đổi Mật Khẩu"
+                android:icon="@drawable/reload"/>
+            <item
+                android:id="@+id/mThoat"
+                android:title="Thoát"
+                android:icon="@drawable/logout"/>
+        </menu>
+    </item>
+
+
+</menu>

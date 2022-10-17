@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.204" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2195" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/activity_dang_nhap.xml" value="0.176" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_chinhsua_thanhvien.xml" value="0.15625" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_chinhsua_thuthu.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_sua_sach.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_them_sach.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_themphieumuon.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_themthanhvien.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/dialog_themthuthu.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_qlloaisach.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_qlphieumuon.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_qlsach.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_qlthanhvien.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_qlthuthu.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_thongkedoanhthu.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/fragment_thongketop10.xml" value="0.12132725430597771" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/header_layout.xml" value="0.16" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/item_recycler_loaisach.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/item_recycler_phieumuon.xml" value="0.11980749746707194" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/item_recycler_sach.xml" value="0.264" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/item_recycler_thanhvien.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/item_recycler_thuthu.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/layout/item_recycler_top10.xml" value="0.12132725430597771" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/AndroidNangCao/BaiTap/MyApplication/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
