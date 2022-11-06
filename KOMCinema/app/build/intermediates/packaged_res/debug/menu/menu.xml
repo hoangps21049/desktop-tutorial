@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mHome"
+        android:title="Trang Chủ"
+        android:icon="@mipmap/home"/>
+    <item android:id="@+id/mDangChieu"
+        android:title="Đang Chiếu"
+        android:icon="@mipmap/movie"/>
+    <item android:id="@+id/mTinTuc"
+        android:title="Tin Tức"
+        android:icon="@mipmap/news"/>
+    <item android:id="@+id/mVeCuaToi"
+        android:title="Vé Của Tôi"
+        android:icon="@mipmap/shoppingcart"/>
+    <item android:id="@+id/mThongKe"
+        android:title="Thống Kê"
+        android:icon="@mipmap/thongke"/>
+    <item android:id="@+id/mDoiMatKhau"
+        android:title="Đổi Mật Khẩu"
+        android:icon="@mipmap/key"/>
+    <item android:id="@+id/mDangXuat"
+        android:title="Đăng Xuất"
+        android:icon="@mipmap/logout"/>
+</menu>
